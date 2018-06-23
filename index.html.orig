@@ -4,9 +4,11 @@
 	<title>GANA CHRIS</title>
 </head>
 <body>
-PABLO LA CAGo 2
+<<<<<<< HEAD
 <p>Pablo es un campeon y es el mejor</p>
 <p>Otro parrafo de pablo</p>
-<h1>PABLO LA CAGA SIEMPRE</h1>
+=======
+PABLO LA CAGÓ
+>>>>>>> 6426c7bbb3d2146095cb34ea2a9e894b356a08bd
 </body>
 </html>
